@@ -124,3 +124,18 @@ table tr:hover {
     font-size: 25px;
     font-weight: bold;
   }
+  
+  .button {
+    display: inline-block;
+    background: #4278b8;
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 3px;
+    text-decoration: none;
+    font-family: Tahoma;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 100;
+    cursor: pointer;
+  }
